@@ -5,20 +5,20 @@ Codename: stable
 Architectures: all
 Components: main
 Description: APT repository for Tiny Pomodoro XFCE
-Date: Sat, 02 May 2026 08:32:24 +0000
+Date: Sat, 02 May 2026 08:59:59 +0000
 MD5Sum:
- 115034f2e2504e974ad04ca4a3b5ba61              209 Release
- 9fb6776a6c73d8ca1dab1ceefb88c697              847 main/binary-all/Packages
- e5efd0afd313e70205cfb1c005f54e23              546 main/binary-all/Packages.gz
+ 324c9c67984a2d8c2a90adcf5df5acfe              209 Release
+ 03cd09409f9d408df4088ba04e45fe6a              847 main/binary-all/Packages
+ 2a533411f0dd0fb17a757c3175f3c6ac              545 main/binary-all/Packages.gz
 SHA1:
- 7de98194d5f2e4915cbb630e41d5e71c293df24e              209 Release
- 06f5e6d680c1e181471d7d719f9d0516238f265c              847 main/binary-all/Packages
- 97fb96964e276270270e8b469e3cc956788e1259              546 main/binary-all/Packages.gz
+ 27092d358a7a8b3869b11eb26ae6dd95df50e45f              209 Release
+ 2a2f4d3cc8fafad999923c75999f790464a6501e              847 main/binary-all/Packages
+ a91ed1392c5d8f9af9b2b0980df1ab7a57ee3a39              545 main/binary-all/Packages.gz
 SHA256:
- 9b39304953660fe7a49aa535ea4045e14dc8fae7c7aed60ebdb33d9ac94e4f83              209 Release
- abf807e82157851e0c391bcc3e3bb048514c3160ab726f499716c3f9609d111a              847 main/binary-all/Packages
- e11761ee8183105e922772846295f79b4d2da27d7798b2950fd6ed08ef1edc00              546 main/binary-all/Packages.gz
+ ab45eb74e112019b2136e48d91cc7a1e4b5d5e0bb0fa68055c8652e91167ab2d              209 Release
+ d6557bdb9f8b4b901820f2927e5baf3f2db3af3bbd550f7a30f6664ae31fa320              847 main/binary-all/Packages
+ b725b263b1250779a1b0b4d00f2db55a17deee20b6e23fcad8e51b665d17a625              545 main/binary-all/Packages.gz
 SHA512:
- 6e8d48485bcaa19308fe24240f84e86ccf4137c8a13729385e572c2ae4c78acf5a6f081089e440598875fbfc57d40f4ea9ce18fff681debaa1914bc3385f24fa              209 Release
- 13377f1aa3f696dcd18fa9fae94c9e2ac834cf99edebb19e4d4cfe10bbce73cee4c1906343417cee197a571c62b207c00f165a2b36e461ce6d6e70bd412b03d6              847 main/binary-all/Packages
- cfbdb1aff7d13beddd82d6ee2391615ba189d27834750fa13c2d0e519062ff616c1b89e86af1308ffba60b921288ab552b8d4db9c9a30327b89776015b5bc022              546 main/binary-all/Packages.gz
+ 0b3fcaf0711caa41df1d67ba28b2b888604c2b0e815723faaa521ac259cf023e3d08a1ce506f54d18933fb703e3904008c429c17f412a54591e14a0b4fbe14a1              209 Release
+ 4e736e81c2e37b3027001fc5b53755107c013de89f405fc8802fa2950b9de6ba2e4486b89cd3c0c23626abeb7ffc31eedb2be7e6ed1af43b721967c36e64f141              847 main/binary-all/Packages
+ fdb0339834a9a84e9750262f20042f8742ef80408b206c11aa522531c89d98b569a730dbdc80c7c492906ef26c63c19bb7e2987292761c4c2423116a50a0bdc6              545 main/binary-all/Packages.gz
