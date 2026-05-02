@@ -8,36 +8,36 @@ Codename: stable
 Architectures: all
 Components: main
 Description: APT repository for Tiny Pomodoro XFCE
-Date: Sat, 02 May 2026 00:29:12 +0000
+Date: Sat, 02 May 2026 00:34:35 +0000
 MD5Sum:
- d206f69d3e8b95da1a3562798c37b483              209 Release
+ ca105801b91055bd625f446214e3fefa              209 Release
  9c11c49c0a5d9a175078534230c61f10              847 main/binary-all/Packages
- e5172d738b59855b4e1686f1e0e5c25b              546 main/binary-all/Packages.gz
+ 5926f5225f20cc13b2acd99c917e9bf5              546 main/binary-all/Packages.gz
 SHA1:
- 510c504f392271c0fc85a9e30e5c42c84b283cdb              209 Release
+ eee96c30d59850e6b7775b486c27a3dcb539ec77              209 Release
  45451f2eaed2071dbac66b689d77fbcbb0bc0ad8              847 main/binary-all/Packages
- 86bf72978f041a265c848037b2431a5a63820bf8              546 main/binary-all/Packages.gz
+ 9a696fbe8ae72d2cfa4f49320a5119be5c9e0d6b              546 main/binary-all/Packages.gz
 SHA256:
- 2bd17650ee2f0e16494e28811debcc32e2b79a65529c3eef66504889d27ed453              209 Release
+ 4d91454fe9a3c6507410e9892f149ec225129f6e7534c8977c1e1b3d9164a3de              209 Release
  2744065cb65e3ba63640fa990ce74db5e66aa5b5ee459db08688615c5453298e              847 main/binary-all/Packages
- 7576f13039f0606d66a4f89a07e4a75d15ea40d8bd63a2d4ea0085cc97429a99              546 main/binary-all/Packages.gz
+ b1e9fae1894eec0aa4aad90b72cbf36bb97754c9c9248fbe966b8e03f2bf1c4a              546 main/binary-all/Packages.gz
 SHA512:
- f2d36bfe1f676049e53549d71359cd2cd9ee5a859d06dfa100760f4238248fca404467b35f9d4676deaa03bd6d1e56ddde055c6453fd41ba22c2fa760cec661f              209 Release
+ 0772c1b7eeb3a06bd38cfb717e6f624c356ffe0f2b685fa40dfff5720007f145a0e4f5ae28fb15b4a3608a2c5b8cf96d0ebd9abda5a82881534b038df617bccb              209 Release
  e0537a68d85eb3b5c4b2450f078ba45061c673dc1910e279c5027466e94a454eae0acca2932ee0b2dd5138213ffaefba5131fed33e9f3428abcbd8d58d71d4ed              847 main/binary-all/Packages
- 4c93485761eff69b4b82f58843eb0e42ac5552874688fc7616154a6ba16dd100a3d53918f2ed6d28c74c83cfe078069f4d6f777eba13bcbe1ba478e137801576              546 main/binary-all/Packages.gz
+ 60788ea5bde436a8505484245606a548a609c97f68aafda627b48d87f4f727ada2254e41b6b6bce11aad07b335225a6f91777dffec2cc4ce55abe7956fab016a              546 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEENbaT7UrwjG6Ljwl2uBXRo+/hdA4FAmn1RVgACgkQuBXRo+/h
-dA4T6xAAtEOSLVMJnkla7kMpQu6u4VXM0edAf3ARe/Y1d8od1fkF4Qs4xe+qjq96
-9z5gsKTxKViq8h7G1WKQoGD140hqD2WJRDRoSH76okxYcnZplbSUsHuPUGiUXoN2
-xSGpz0y9i8AecqbRUXQsZbJacC0Gcre7q+1zJa6/NqVSTtBMNsGc4hyDxy+Uis/H
-Ru32+eYkhqcqfzVAhM6urAFVmz7rIXLoMXF7z9KZiPwhtyw5BrrivFu3v5zBDaMj
-sDHMAQdUw/YL2w0M6qU2zE1x9AcCwd3L+G0dvOuBj5E/M4paW2gCppErvgK1qJNE
-eQlRck1R7JdHuzv4ajalUQe+Xj1j/2iikFdCT48KxNX0tx5x9p35Vi7WIsH7aKcD
-OSqnuLXiE6M9Q+SNfS1SuurbLyhFBiHeNfk8tUAHMcriAPjTvmSaX7XiFLW5sIKZ
-I2TflmB5gPjC0TLXN7E34cD/bcTVl1w2jD2+V2A8tgzMq9frDSeKiodC9uG2nGvB
-HRE6aYWDSHzmjjf3WuQBm6ZYAgrxH2ysnzhzbDiv+ov70a2ABXnm4gT0sWxwYuBE
-J/vDdiRWZMl9Y3sZ1+Z5qmSzqLetYb6CWagUC8s42x1R61VvVF13YGWpiMXyILaR
-s5KkSdgBdcVNcIQ8srr3ClNSnXPvqkD/PHOMDeIXDCPG5OfeyhI=
-=I7FJ
+iQIzBAEBCgAdFiEENbaT7UrwjG6Ljwl2uBXRo+/hdA4FAmn1RpsACgkQuBXRo+/h
+dA48tg//XB9rQ7dg0CQorY7hBqVrVDxgcqj2/z7b9Z21mWQhhPIr/heIXu3kkEJf
+rvR7xY0Alz9cRSgH9Dq4xbbe+s+JZurItznK4EbtheTr+X2bCJwz/ZlR3AUwNLc9
+frTnJN/XtXHkryAmQZCLkpZS5alLX5J4iW4RSGLLDmg2MQNSPCMzoI7Dospn7koB
+61ABOX/o30OWRSmIuodmnqU4oyDDFLOvv/rXvO/LgHtviLV5i885O8DhiNANqamd
+lIyw356P3UdmptnMUUTDfrdzNfdJfeyMrgzAag16qpKVKDJ1GY/ssBVgUZ9/BLKN
+6cTkTJ37eWbyYwjHy/qvM7SX2E3F/Mh3/aGQzOvcHqFPcacZnlvpylwLmt3glYgu
+HYaL3W/4ku8Jn6xlFev7DmmAFEH3xg4WbKkjAMWYATMQU8N67QnlG3xbY0xqVmM4
+kh27JHlcBoUP86aVeVOzsqNt8t3R9vvqNdTqsBfhZM4r/8RsZ/J48E4xtuKx6RF8
+/6HT6dxnC+H4NVX6/3hqUeWeSmMNB/rGjUh8lFgfhH2gzHV3+P5JqpFiF/iejVpc
+Tjf8/mgIhYv1KNbMB01DeoKp6d1GHMx7ihWB1XKcbhgHYvQ8TizU4KTW2LlDIJO8
+hAJDhKHt540Xm9PzqdDidmvvLzfH3r8+7JNh4g4wKwz1Gm5FDmk=
+=pwcV
 -----END PGP SIGNATURE-----
