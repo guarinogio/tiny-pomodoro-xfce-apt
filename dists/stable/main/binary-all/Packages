@@ -1,0 +1,19 @@
+Package: tiny-pomodoro-xfce
+Version: 0.2.0
+Architecture: all
+Maintainer: Gio Guarino <gioguarino@users.noreply.github.com>
+Installed-Size: 67
+Depends: python3:any, python3-gi, gir1.2-gtk-3.0, gir1.2-pango-1.0, libnotify-bin, pulseaudio-utils, xfconf
+Filename: pool/main/t/tiny-pomodoro-xfce/tiny-pomodoro-xfce_0.2.0_all.deb
+Size: 10712
+MD5sum: 0b43ac976cf64d8116f15e5685f4a3c7
+SHA1: 77d21beaea5fedba02cd632c1580e59f74060a28
+SHA256: d567e4ddd87d73687f7f6aaf4d76509f051cc2922f38ae024facd3ca9d15b3cc
+Section: utils
+Priority: optional
+Homepage: https://github.com/guarinogio/tiny-pomodoro-xfce
+Description: Small floating Pomodoro and countdown timer for XFCE
+ Tiny Pomodoro XFCE is a small floating GTK timer for Xubuntu/XFCE.
+ It supports Pomodoro mode, countdown timer mode, notifications,
+ dark mode, autostart, and optional shutdown scheduling.
+

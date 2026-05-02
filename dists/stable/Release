@@ -1,0 +1,24 @@
+Origin: Tiny Pomodoro XFCE
+Label: Tiny Pomodoro XFCE
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: APT repository for Tiny Pomodoro XFCE
+Date: Sat, 02 May 2026 00:29:12 +0000
+MD5Sum:
+ d206f69d3e8b95da1a3562798c37b483              209 Release
+ 9c11c49c0a5d9a175078534230c61f10              847 main/binary-all/Packages
+ e5172d738b59855b4e1686f1e0e5c25b              546 main/binary-all/Packages.gz
+SHA1:
+ 510c504f392271c0fc85a9e30e5c42c84b283cdb              209 Release
+ 45451f2eaed2071dbac66b689d77fbcbb0bc0ad8              847 main/binary-all/Packages
+ 86bf72978f041a265c848037b2431a5a63820bf8              546 main/binary-all/Packages.gz
+SHA256:
+ 2bd17650ee2f0e16494e28811debcc32e2b79a65529c3eef66504889d27ed453              209 Release
+ 2744065cb65e3ba63640fa990ce74db5e66aa5b5ee459db08688615c5453298e              847 main/binary-all/Packages
+ 7576f13039f0606d66a4f89a07e4a75d15ea40d8bd63a2d4ea0085cc97429a99              546 main/binary-all/Packages.gz
+SHA512:
+ f2d36bfe1f676049e53549d71359cd2cd9ee5a859d06dfa100760f4238248fca404467b35f9d4676deaa03bd6d1e56ddde055c6453fd41ba22c2fa760cec661f              209 Release
+ e0537a68d85eb3b5c4b2450f078ba45061c673dc1910e279c5027466e94a454eae0acca2932ee0b2dd5138213ffaefba5131fed33e9f3428abcbd8d58d71d4ed              847 main/binary-all/Packages
+ 4c93485761eff69b4b82f58843eb0e42ac5552874688fc7616154a6ba16dd100a3d53918f2ed6d28c74c83cfe078069f4d6f777eba13bcbe1ba478e137801576              546 main/binary-all/Packages.gz
