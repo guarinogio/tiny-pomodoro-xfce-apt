@@ -5,10 +5,10 @@ Maintainer: Gio Guarino <gioguarino@users.noreply.github.com>
 Installed-Size: 70
 Depends: python3:any, python3-gi, gir1.2-gtk-3.0, gir1.2-pango-1.0, libnotify-bin, pulseaudio-utils, xfconf
 Filename: pool/main/t/tiny-pomodoro-xfce/tiny-pomodoro-xfce_0.2.5_all.deb
-Size: 11824
-MD5sum: 6f32d648365f63f4105514d68f9466ff
-SHA1: 6d45356496a9fe70195e1c0ba1e5fbcdeb2ad929
-SHA256: 8a4fda00e582774ddbbfb6ac763e98bc7d377fef324d8a19a8ddc196939e4d29
+Size: 11830
+MD5sum: 55f9bcd653fa01e00422f7d43c5a5d55
+SHA1: 6ae9b7ff01eb1d51da928554f975336383e6950d
+SHA256: bf5f8a33a888aafebf820f80bf1d172fa6582d22e2eaea35196f172ec12c3563
 Section: utils
 Priority: optional
 Homepage: https://github.com/guarinogio/tiny-pomodoro-xfce
