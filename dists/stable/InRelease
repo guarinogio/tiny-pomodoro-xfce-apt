@@ -8,36 +8,36 @@ Codename: stable
 Architectures: all
 Components: main
 Description: APT repository for Tiny Pomodoro XFCE
-Date: Sat, 02 May 2026 09:39:11 +0000
+Date: Mon, 04 May 2026 18:17:22 +0000
 MD5Sum:
- d5f3745c7253ce6ccec55a117b3d87cd              209 Release
- a014f13267646219c0e9904a0ecb17cc              847 main/binary-all/Packages
- bdde8074dd927e453bc03577c0108d81              545 main/binary-all/Packages.gz
+ cc1e62fdc451fe2d4ada6379c073e38b              209 Release
+ 97301ed71999bcb0d087def2c41317cf              891 main/binary-all/Packages
+ 035d717b8f60f628214869cb86ca6693              571 main/binary-all/Packages.gz
 SHA1:
- 25b86d4947ef887c3ee15f07c86b8a6de6e23bd3              209 Release
- 80c0e094aac3556f2ac0c203acb9a1a3b650ed99              847 main/binary-all/Packages
- 7881597317ad6948f7d7041a092f55a8748590d6              545 main/binary-all/Packages.gz
+ e44b1899c3e6d4605083370fcf417b91aa13baae              209 Release
+ 1a0ba6ac75b709a3c05eb7bd23ea6dd6b2845075              891 main/binary-all/Packages
+ 88305df7587da57746b0662832be35ca517649d9              571 main/binary-all/Packages.gz
 SHA256:
- 54bde610ef87b071cffb2f2364066bc73587edf72124bdb430be920ef1f84e39              209 Release
- 8466422e86faf85fa4f74d508ac173be262adcd126009ddfb0209d2915bbe4e4              847 main/binary-all/Packages
- 822949c957e6cb7e3f7b6aa0a12dea2919f25d4a4679e6687bd7bd2ac296a865              545 main/binary-all/Packages.gz
+ b8f52684b82cb16909ff525648a88211541a42316c4b5ef75c3c251447938172              209 Release
+ 5ba611427bc89aecb995269fc559bbebacf7ed0c512540ac6ec784d3ac561118              891 main/binary-all/Packages
+ 5030a5d9f8f9dd3a688792da698e0530cdb777a654b79c603427f029c471c021              571 main/binary-all/Packages.gz
 SHA512:
- 3b8f1dc2af0f060c5f5269ed0e3d960f2fd68aaf78aa0a0ccace3227a32fdeafb9e5cff6f521649494caf7f89e6a8cf02c19cf5caceedefa0577cff24920d8e9              209 Release
- 2d8dd354af077d7060da85874e5b96efb0e2c9bc7f0962e88ce5cef44a0402c282e9fe9ade32ddcdd948ba70c8bf72039301ac1c525b4e79001d6897c9169ff3              847 main/binary-all/Packages
- fe504b8187625dfc68a0a3060ea538be7eebdca65a882d6d3837bceeceb1fd049f1a45dd13db0beb0b97c95d91b1237feb5b4c9b937274e5ed2797ef6d35b2be              545 main/binary-all/Packages.gz
+ bc40c24723f7333755ff79dc5f7426b9e09b630988f495cdf39e555be1063deecf76e75eb233f3c37cb9a3195aee57bd28ad85f57cff9ffa354cd08804722cc9              209 Release
+ 95252d93a61d7d9233397c5400ad314240a90d6567ae50bb4a46bd7950f94a1a73784fbb9f6bb6edac7e5de5ce0b0949e8687d5288d9639f12d25b3a12eae6b1              891 main/binary-all/Packages
+ 56a3ee57b988792ba01d2b13750e12a71f6bef10754c4cb99bcb822fc024869ee8b167d1fc6c29112526ddcf2d864a9ac2f67330316e92aafb9e94a139301c01              571 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEENbaT7UrwjG6Ljwl2uBXRo+/hdA4FAmn1xj8ACgkQuBXRo+/h
-dA6qmBAAkAqFkinRZMCbldKN7GYiCU1BqPGUz6ckbvMwKmXWjbZY24RYGI5/XFV5
-7N/ym+Mkccl9c5k52WqvZ1zSRuIT1PvmK07cqXtQtsuPFK+NcW+r603UOQi0BBum
-EyBwUWi4kURQWxYIrZkm8yjmvnjb83mwYTFN6irMGp2R/vqrPL/gMbOl2GlbrYM+
-Izb2MD96hE/5Q8s1b/W/4rnYXbHjHGg0L0Qqbo44wDgIj0S8qc8lzc7ueXHTgyXb
-UweBgCoUU4s4a1p2RhoIo5zYBeJ4TiONqWT1S+6P5aCRmGmgwTBmUSFFGBK9rB9i
-OBx4l3MJguhBGbvqFJIdWRDan2gd3kkaFwyZK7PU4UWjvr4v4OTwRbrpUsoVKaMx
-g3mF6a6VhggB5pKOlh6hllA3INePSEiWQ38PMpKJ1WiG9cjbz0JY3CXLrfsQNIAW
-xcQttJz9dbc5ix3uP1uwQv8Ne4fvCamTGcNvtqf0xCGJS3n8TKeROSnRPDI2GLfu
-SDfC8z4/OvaorxVp7c7RJ8GqqKnY3LbCp4BqeMCtmfCn4M+ZG3pNvNsYkdjAnEXA
-bP0U+mXkDcxVGs2b5nVmi+BzlB2gKSRt80z+5+msjrNGO3/h00yr2065LhiuzgzR
-TjWEnNRWFjO+PrjaABTjv/L5uSRW7z2Jwl6qhMfVtduVbX/Dz9M=
-=olLS
+iQIzBAEBCgAdFiEENbaT7UrwjG6Ljwl2uBXRo+/hdA4FAmn44rIACgkQuBXRo+/h
+dA64Pw//adphD9Agrexftorp4+rrDUc3XMUxLwjmXPF/pzuX6M37V+zGREU+2GFo
+t6o7F0oH+Q8N2Wsuliu9m0fFGdvfNVahfYwUBOAO/V9DaD+jTvQqGqJhX3IxT5RJ
+JJbbqPhHs27U9OhsN+UdROEjEYvTwXkt6X7BbzUVb5NJEmQuWyMVgHb1Aqw5cR2y
+wHe46zJ4Y+C1VPI/+WjzbTvTDLWC+07XACOsJ3gjy8VPXH8+2l/lgXheqEfbo/Rg
+Od20+kEs997DYJHpaQrG7/SfiW1nOmC8qsCKpISkPZgJzWdMAlGrnrU+6Nc+ro3V
+rxzqVM4yjfvkDpTz28NgigZ062waUgtfquEAYJrZ0/P+oE3EJuEGIY1fpQ9fVVrA
+72+0ua2lA46+1mLYL4VX3/dxxD/pbRaL/QeDHMf6p4eOANLsAJh8rRBmPTmEag1v
+wl8Ao19X3UtCbzNa1znds7BNsml0k7alNx1/U568WQsBa0rqz8c0sZWQZcMP06Jr
+yoYEbqyG60tuaiJplUkeinfoC7FYP95FWE7PfSoMeNKxc2lnE6Nc7fw7CouNg128
+UcteWDynzagx+fajer6zLBXiTWhKeEBCFIcYC/1Mlv3rWNZWXwKjTuEEBbmW+23C
+CJLUouDBuPriOzrfyr8NBKl8SWUE2vevsSTKdtwUfyLn2vRA6NA=
+=vbI5
 -----END PGP SIGNATURE-----
